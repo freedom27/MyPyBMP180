@@ -1,0 +1,3 @@
+[submodule "source/MyBMP180_RPi_Driver"]
+	path = source/MyBMP180_RPi_Driver
+	url = https://github.com/freedom27/MyBMP180_RPi_Driver
